@@ -11,4 +11,4 @@ For the front-end part, I have used React.js and redux toolkit.
 
 Hope you like it.
 
-⭐️ To see HIGM website => [shhm8905](https://higm.netlify.app/)
+⭐️ To see HIGM website => [Gelara-a](https://higm.netlify.app/)
